@@ -1,4 +1,4 @@
-class GENRES 
+class Book
   
   def initialize(name)
     @name = name    
